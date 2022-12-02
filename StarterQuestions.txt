@@ -1,7 +1,0 @@
-Starter Questions
-1. There are three classes in the application
-2. EscapeRoom.java is the entry point because it has the main class
-3. EscapeRoom : Is the main class
-   GameGUI : Holds the JFrame and Graphics that comes with it
-   UserInput : Sets up the comands and enviroment for the user to give input
-4. EscapeRoom.java
